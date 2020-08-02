@@ -1,0 +1,7 @@
+- name: Ramesh Raskar
+  title: |
+    Professor, MIT Media Lab
+  avatar: Ramesh.png
+  extra_title: |
+    Program Co-chair
+  hide_talk: true
