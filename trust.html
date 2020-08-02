@@ -1,0 +1,118 @@
+---
+layout: default
+title: Pandemic
+---
+
+<div class="masthead ui segment center aligned"
+    style="background-image: linear-gradient(rgba(242, 113, 28, 0.5), rgba(242, 113, 28, 0.5)), url('/assets/img/bg1.jpg');">
+    
+    <div class="ui container center aligned">
+        <h1 class="ui header" style="margin-bottom: 0em;">
+            Trust in Pandemic Tech
+        </h1>
+        <h3 class="ui header" style="margin-bottom: 0em;">
+            Thursday August 6th, Noon-2pm EST, Private Roundatable 2-3pm EST
+            <a href="/events/agenda-0806" class="ui tag large label" style="color: rgba(242, 113, 28, 1);">Agenda</a> 
+        </h3>
+        <br>
+        <a class="ui massive white button" style="color: rgba(242, 113, 28, 1); margin-bottom: 2em;" href="/joinus">
+            Join Us / Free Registration
+        </a>
+        <br>
+        <div class="ui header" style="font-size: 0.6em; background: rgba(242, 113, 28, 0.7); color: rgba(255, 255, 255, 1); padding-top: 1em; padding-bottom: 0.6em; margin-left: 12em;  margin-right: 12em;">
+            <h3 style="font-size: 3em;"> Live Q&A over Twitter
+            <h3> 
+                During each talk, speakers will be ready to discuss their talk and answer your questions on Twitter. Just follow 
+                <a href="https://twitter.com/dataeconomyai?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @dataeconomyai</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                and use these <a href="#" style="background-color: #1b95e0; color: white; text-decoration: underline;">instructions</a> to tweet at each speaker directly.  
+            </h3>
+        </div>
+        <div class="ui divider"></div>
+        <div class="four orange ui buttons">
+            <a class="ui medium button" style="margin: 0em;" href="#about">About</a>
+            <a class="ui medium button" style="margin: 0em;" href="#speakers">Invited Speakers</a>
+            <a class="ui medium button" style="margin: 0em;" href="#committee">Organizing Committee</a>
+            <a class="ui medium button" style="margin: 0em;" href="/events/agenda-0806">Agenda</a>
+        </div>
+        <br>
+    </div>
+</div>
+
+<section id="about" class="ui segment center aligned">
+    <div class="ui container left aligned">
+        <div class="ui grid">
+            <div class="twelve wide column">      
+                <h1 style="text-align: center;">
+                    Responsible Data in the Time of Pandemic
+                </h1>
+                <p>
+                    Never before have we had access to large scale datasets and processing capabilities while fighting a global
+                    pandemic like COVID-19. But with great data comes great responsibility. New questions are being asked, such
+                    as:
+                </p>
+                <div class="ui bulleted list">
+                    <p class="item">How should such data be used?</p>
+                    <p class="item">Are there protections that individuals are willing to forgo in a short-term crisis? What
+                        happens after the crisis is over?</p>
+                    <p class="item">Is it possible to enhance contact tracing while also increasing privacy protections?</p>
+                    <p class="item">What other technologies can be used to fight a global pandemic, and what are the privacy
+                        implications of their use?</p>
+                </div>
+                <p>
+                    In this track at the Responsible Data Summit we will explore the perspectives and experiences of leaders fighting COVID-19
+                    with data and new technologies, and host a discussion about how we all - as responsible data stewards - can
+                    use data responsibly to fight both the current pandemic and infectious diseases in the future.
+                </p>
+            </div>
+            <div class="four wide column">
+                {% include twitter_emb.html %}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="speakers" class="masthead ui segment center aligned"
+    style="background-image: linear-gradient(rgba(242, 113, 28, 0.7), rgba(242, 113, 28, 0.7)), url('/assets/img/bg1.jpg');">
+    <div class="ui container center aligned">
+        <h1 class="ui header">
+            Speakers
+        </h1>
+    </div>
+    <br>
+    <div class="speakers ui container center aligned">
+        <div class="ui three column grid">
+            {% for speaker in site.data.speakers_pandemic %}
+            <div class="column">
+                <div class="ui container center aligned">
+                    <img class="ui medium centered circular image" src="/assets/img/speakers/{{speaker.avatar}}">
+                </div>
+                <h2> {{ speaker.name }} </h2>
+                <h4> {{ speaker.title | newline_to_br  }} </h4>
+            </div>
+            {% endfor %}
+            <div class="column middle aligned">
+                <h1> And More! </h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ui segment center aligned">
+    <div class="ui container left aligned" style="padding-top: 2em; padding-bottom: 2em;">
+        {% include newsletter_signup.html %}
+    </div>
+</section>
+
+{% include committee_sec.html %}
+
+<section class="ui container center aligned" style="padding: 6em;">
+    <div class="ui two column grid">
+        <div class="column">
+            <img class="ui centered image medium" src="/assets/img/berkeley.png">
+        </div>
+        <div class="column">
+            <img class="ui centered image medium" src="/assets/img/mit.jpg">
+        </div>
+    </div>
+</section>

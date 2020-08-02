@@ -1,0 +1,120 @@
+- name: Yoshua Bengio
+  title: |
+    Founder and Scientific Director, Mila     
+    Professor, University of Montreal
+  avatar: Yoshua.png
+  talk: |
+    Machine Learning for Contagiousness Risk Prediction on Smartphones
+  extra_title: |
+    Turing Award Winner
+  hide_talk: true
+- name: Ron Rivest
+  title: |
+    Institute Professor, MIT
+  avatar: Ron.jpg
+  talk: |
+    Private Automated Contact Tracing (PACT)
+  extra_title: |
+    Turing Award Winner
+  hide_talk: true
+- name: Matthew Trunnell
+  title: |
+    Executive Director, Pandemic Response Consortium
+    Former CIO, Fred Hutchinson Cancer Center
+  avatar: Matthew.png
+  talk: |
+    The Chicagoland COVID-19 Commons
+  hide_talk: true
+- name: R.V.Guha               
+  title: |
+    Google Fellow, Google
+  avatar: Guha.jpg
+  talk: |
+    Data Commons
+- name: Richard Benjamins
+  title: |
+    Chief AI & Data Strategist, Telefonica
+  avatar: RichardB.jpg
+  hide_talk: true
+- name: John Langford
+  title: |
+    Partner Research Manager,
+    Microsoft
+  avatar: John.png
+  talk: |
+    Trust in Contact Tracing
+- name: Ed Felten
+  title: |
+    Professor, Princeton University
+    Former Deputy United States Chief Technology Officer
+  avatar: Ed.png
+  talk: |
+    Privacy in Times of Crisis
+- name: Dawn Song
+  title: |
+    Professor, UC Berkeley
+    Founder and CEO of Oasis Labs
+  avatar: Dawn.jpg
+  extra_title: |
+    Executive Program Chair
+  hide_talk: true
+- name: Moti Yung
+  title: |
+    Research Scientist, Google
+  avatar: Moti.png
+  talk: |
+    Privacy Integrated Computing
+- name: Brennan Lake
+  title: |
+    Senior Director of Data for Good, Cuebiq
+  avatar: Brennan.jpg
+- name: Claudia Juech 
+  title: |
+    CEO and President, Cloudera Foundation
+  avatar: Claudia.jpg
+- name: Stefaan G Verhulst
+  title: |
+    Co-Founder and Chief Research and Development Officer, 
+    The GovLab
+  avatar: Stefaan.jpg
+- name: Ramesh Raskar
+  title: |
+    Professor, MIT Media Lab
+  avatar: Ramesh.png
+  extra_title: |
+    Program Co-chair
+  hide_talk: true
+- name: Carmela Troncoso
+  title: |
+    Professor, EPFL
+  avatar: Carmela.png
+  talk: |
+    DP3T: Towards Reducing the Trade-Offs of Contact Tracing
+- name: Andrew Trask
+  title: |
+    Leader, openmined.org
+  avatar: Andrew.png
+- name: Claire Jarashow
+  title: |
+    Acting Director, Vaccine Preventable Disease Control 
+    at Los Angeles County Department of Public Health
+  avatar: Claire.jpg
+  hide_talk: true
+- name: Bill Pugh
+  title: |
+    Professor, University of Maryland
+  avatar: Bill.jpg
+  talk: |
+    The Challenge of Balancing Useful Functionality and Privacy in GAEN
+- name: Elissa M. Redmiles  
+  title: |
+    Researcher 
+    Microsoft Research
+  avatar: Elissa.jpg
+  talk: |
+    Identifying the Ideal COVID19 App via Descriptive Ethics
+- name: Will Knight
+  title: |
+    Wired Magazine
+  avatar: Will.png
+  hide_talk: true

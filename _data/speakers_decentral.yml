@@ -1,0 +1,49 @@
+- name: Whit Diffie
+  title: |
+    Co-inventor of Diffie-Hellman algorithm
+  avatar: Whit.jpg
+- name: Ari Juels, 
+  title: |
+    Professor, Cornell Tech
+  avatar: Ari.jpg
+- name: Andrew Miller
+  title: |
+    Professor, UIUC
+  avatar: AndrewM.png
+- name: Eli Ben-Sasson
+  title: |
+    Co-Founder & President, StarkWare
+  avatar: Eli.jpg
+- name: David Chaum
+  title: |
+    CEO, xx network
+  avatar: David.jpg
+- name: Ali Loveys
+  title: |
+    Ernst & Young
+  title_linkedin: Chief Privacy Officer, Foundation Relations and North America Markets Leader (acting) at ConsenSys Health
+  avatar: Ali.jpg
+- name: Brendan Eich
+  title: |
+    Founder and CEO, 
+    Brave
+  avatar: BrendanE.jpg
+- name: Phil Windley
+  title: |
+    Chair and Founder,
+    Sovrin Foundation
+  avatar: Phil.png
+- name: Lily Liu
+  title: |
+    Founder, Earn.com
+  avatar: Lily.png
+- name: Joey Krug
+  title: |
+    Co-Chief Investment Officer,
+    Pantera Capital
+  avatar: Joey.png
+- name: Avichal Garg
+  title: |
+    Managing Partner, 
+    Electric Capital Partners
+  avatar: Avichal.jpg
