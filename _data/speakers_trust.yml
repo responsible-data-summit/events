@@ -1,7 +1,48 @@
-- name: Ramesh Raskar
+- name: David Kong
   title: |
-    Professor, MIT Media Lab
-  avatar: Ramesh.png
-  extra_title: |
-    Program Co-chair
-  hide_talk: true
+    Director, Community Biotechnology Initiative, MIT Media Lab
+  avatar: Whit.jpg
+- name: Frank Moss, 
+  title: |
+    Former Director of MIT Media Lab
+  avatar: Ari.jpg
+- name: Lily Tsai
+  title: |
+    GovLab at MIT
+  avatar: AndrewM.png
+- name: Tate Ryan-Mosley
+  title: |
+    MIT Tech Review
+  avatar: Eli.jpg
+- name: Peko Hasoi
+  title: |
+    Professor of Mechanical Engineering and associate dean of engineering at the Massachusetts Institute of Technology.
+  avatar: David.jpg
+- name: Marc Zissman
+  title: |
+    MIT Lincoln Labs  
+  avatar: Ali.jpg
+- name: Brendan Eich
+  title: |
+    Founder and CEO, 
+    Brave
+  avatar: BrendanE.jpg
+- name: Phil Windley
+  title: |
+    Chair and Founder,
+    Sovrin Foundation
+  avatar: Phil.png
+- name: Lily Liu
+  title: |
+    Founder, Earn.com
+  avatar: Lily.png
+- name: Joey Krug
+  title: |
+    Co-Chief Investment Officer,
+    Pantera Capital
+  avatar: Joey.png
+- name: Avichal Garg
+  title: |
+    Managing Partner, 
+    Electric Capital Partners
+  avatar: Avichal.jpg
