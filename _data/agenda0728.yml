@@ -1,52 +1,56 @@
-- time: 12:00
+- time: 12:00 - 12:10
   sections: 
-    - title: "Opening Comments"
+    - title: "Opening Comments: Trusted Pandemic Tech"
       #link: https://youtu.be/k-sIXplTssY
       speakers:
         - name: David Kong
         - name: Frank Moss
         - name: Ramesh Raskar  
-          content: Trusted Pandemic Tech
 - time: 12:10 - 12:30
   sections: 
     - title: "Trust in Pandemic Tech"
       #link: https://youtu.be/XQ6E0Q8SY5c
       speakers: 
         - name: Lily Tsai
+          content: GovLab at MIT
         - name: Tate Ryan-Mosley
+          content: Contact Tracing App Ranking
         - name: Peko Hasoi
+          content: MIT Isolate Data-Science Program for Covid19
         - name: Marc Zissman
+          content: MIT PACT
         - name: Gary Hatke
+          content: MIT PACT
         - name: Omid Sabjadi
+          content: NIST Bluetooth Challenge
 
-- time: 12:30
+- time: 12:30 - 1:00
   sections:
     - title: "Contact Tracing and US Congress"
       #link: https://youtu.be/fE0WMc8K_ow
     - inline: true
       speakers:
         - name: Frank Moss
+          content: Moderator
         - name: Congressman Bill Foster
+
 - time: 1:00 - 1:30
   sections:
     - title: Apps and Government
       #link: https://youtu.be/aKAd3idQol4
       speakers:
         - name: David Eaves
-          content: Harvard Kennedy School
+          content: Moderator
           #link: https://www.google.com/covid19/exposurenotifications/
         - name: James Joshi
           content: Director of Secure and Trustworthy Cyberspace (SaTC) program
           #link: https://pact.mit.edu/
+        - name: Don Rucker
+        - name: Jeff Jaffe
+
 - time: 1:30 - 2:00
   sections:
     - title: "Apps and Public Health"
-      #comment: Privacy-preserving contact tracing
-      #link: https://youtu.be/C1egbi2CmOg
-      #- title: "Moderator:"
-      #speakers:
-      #  - name: Will Knight
-      #    - title: "Panelists:"
       speakers:
         - name: Adam Berrey
         - name: John Halamka
