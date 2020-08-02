@@ -1,0 +1,128 @@
+- time: 9:00 - 9:30
+  sections: 
+    - title: Opening Comments
+      #link: https://youtu.be/k-sIXplTssY
+      speakers:
+        - name: David Kong
+        - name: Frank Moss
+        - name: Ramesh Raskar  
+          content: Trusted Pandemic Tech
+- time: 9:30 - 10:00
+  sections: 
+    - title: Trust in Pandemic Tech
+      #link: https://youtu.be/XQ6E0Q8SY5c
+      speakers: 
+        - name: Lily Tsai
+        - name: Tate Ryan-Mosley
+        - name: Peko Hasoi
+        - name: Marc Zissman
+        - name: Gary Hatke
+        - name: Omid Sabjadi
+
+- time: 10:00 - 10:30
+  sections:
+    - title: "Fireside Chat:"
+      link: https://youtu.be/fE0WMc8K_ow
+    - inline: true
+      speakers:
+        - name: Yoshua Bengio
+        - name: Dawn Song 
+- time: 10:30 - 11:15
+  sections:
+    - title: Privacy-preserving contact-tracing projects
+    - title: "Session A:"
+      link: https://youtu.be/aKAd3idQol4
+      speakers:
+        - name: Moti Yung
+          content: Google
+          link: https://www.google.com/covid19/exposurenotifications/
+        - name: Ron Rivest
+          content: PACT
+          link: https://pact.mit.edu/
+    - title: "Session B:"
+      link: https://youtu.be/JxCmJtjJioY
+      speakers:
+        - name: Carmela Troncoso
+          content: DP-3T
+          link: https://github.com/DP-3T/documents
+        - name: Ramesh Raskar
+          content: SafePaths
+          link: https://covidsafepaths.org/
+    - title: "Session C:"
+      link: https://youtu.be/ocW8m_yIe0E
+      speakers:
+        - name: John Langford
+          content: CommonCircle (PACT protocols)
+          link: https://commoncircle.us/
+        - name: Bill Pugh
+          content: The Challenge of Balancing Useful Functionality and Privacy in GAEN
+    - title: "Session D:"
+      link: https://youtu.be/pv9eGYR9A98
+      speakers:
+        - name: Andrew Trask
+          content: Privacy Preserving Public Health Infrastructure
+- time: 11:15 - 12:15
+  sections:
+    - title: "Panel:"
+      comment: Privacy-preserving contact tracing
+      link: https://youtu.be/C1egbi2CmOg
+    - title: "Moderator:"
+      speakers:
+        - name: Will Knight
+    - title: "Panelists:"
+      speakers:
+        - name: Moti Yung
+        - name: Ron Rivest
+        - name: Ramesh Raskar
+        - name: Carmela Troncoso
+        - name: John Langford
+- time: 12:15 - 13:00
+  sections:
+    - title: "Privacy vs. Utility"
+      link: https://youtu.be/NjacCpQuuKY
+    - inline: true
+      speakers:
+        - name: Ed Felten
+          content: Privacy in Times of Crisis
+        - name: Elissa M. Redmiles
+          content: Identifying the Ideal COVID-19 App via Descriptive Ethics
+- time: 13:00 - 14:00
+  sections:
+    - title: "Data Commons in Pandemic"
+      link: https://youtu.be/qwsT5Ox5Hr8
+    - inline: true
+      speakers:
+        - name: R.V.Guha
+          content: Data Commons
+        - name: Matthew Trunnell
+          content: The Chicagoland COVID-19 Commons
+        - name: Claire Jarashow
+          content: The Complexities of COVID-19 Surveillance Data
+- time: 14:00 - 15:00
+  sections:
+    - title: "Panel:"
+      comment: "Data Steward & Pandemic Response"
+      link: https://youtu.be/xDBzIWZF1Ac
+    - title: "Moderator:"
+      speakers:
+        - name: Stefaan G Verhulst
+    - title: "Panelists:"
+      speakers:
+        - name: Richard Benjamins
+        - name: Claudia Juech
+        - name: Brennan Lake
+- time: 15:00 - 15:15
+  sections: 
+    - title: Spotlight 
+      link: https://youtu.be/61VKExxRogc
+- time: 15:15 - 15:30
+  sections: 
+    - title: Conclusion 
+      link: https://youtu.be/yLkruUA5uwY
+      speakers:
+        - name: Evgenios M. Kornaropoulos
+          aff: Researcher, UC Berkeley
+          avatar: Evgenios.jpeg
+        - name: Vivek Sharma
+          aff: Researcher, MIT/Harvard
+          avatar: VivekS.jpg
