@@ -61,68 +61,16 @@
       speakers:
         - name: Andrew Trask
           content: Privacy Preserving Public Health Infrastructure
-- time: 11:15 - 12:15
+- time: 1:30 - 2:00
   sections:
-    - title: "Panel:"
-      comment: Privacy-preserving contact tracing
-      link: https://youtu.be/C1egbi2CmOg
-    - title: "Moderator:"
+    - title: "Apps and Public Health"
+      #comment: Privacy-preserving contact tracing
+      #link: https://youtu.be/C1egbi2CmOg
+      #- title: "Moderator:"
+      #speakers:
+      #  - name: Will Knight
+      #    - title: "Panelists:"
       speakers:
-        - name: Will Knight
-    - title: "Panelists:"
-      speakers:
-        - name: Moti Yung
-        - name: Ron Rivest
-        - name: Ramesh Raskar
-        - name: Carmela Troncoso
-        - name: John Langford
-- time: 12:15 - 13:00
-  sections:
-    - title: "Privacy vs. Utility"
-      link: https://youtu.be/NjacCpQuuKY
-    - inline: true
-      speakers:
-        - name: Ed Felten
-          content: Privacy in Times of Crisis
-        - name: Elissa M. Redmiles
-          content: Identifying the Ideal COVID-19 App via Descriptive Ethics
-- time: 13:00 - 14:00
-  sections:
-    - title: "Data Commons in Pandemic"
-      link: https://youtu.be/qwsT5Ox5Hr8
-    - inline: true
-      speakers:
-        - name: R.V.Guha
-          content: Data Commons
-        - name: Matthew Trunnell
-          content: The Chicagoland COVID-19 Commons
-        - name: Claire Jarashow
-          content: The Complexities of COVID-19 Surveillance Data
-- time: 14:00 - 15:00
-  sections:
-    - title: "Panel:"
-      comment: "Data Steward & Pandemic Response"
-      link: https://youtu.be/xDBzIWZF1Ac
-    - title: "Moderator:"
-      speakers:
-        - name: Stefaan G Verhulst
-    - title: "Panelists:"
-      speakers:
-        - name: Richard Benjamins
-        - name: Claudia Juech
-        - name: Brennan Lake
-- time: 15:00 - 15:15
-  sections: 
-    - title: Spotlight 
-      link: https://youtu.be/61VKExxRogc
-- time: 15:15 - 15:30
-  sections: 
-    - title: Conclusion 
-      link: https://youtu.be/yLkruUA5uwY
-      speakers:
-        - name: Evgenios M. Kornaropoulos
-          aff: Researcher, UC Berkeley
-          avatar: Evgenios.jpeg
-        - name: Vivek Sharma
-          aff: Researcher, MIT/Harvard
-          avatar: VivekS.jpg
+        - name: Adam Berrey
+        - name: John Halamka
+        - name: JT Lane
