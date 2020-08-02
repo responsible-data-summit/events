@@ -37,8 +37,28 @@
 - name: David Eaves
   title: |
     Harvard Kennedy School
-  avatar: Joey.png
+  avatar: davideaves.jpg
 - name: James Joshi
   title: |
     Director of Secure and Trustworthy Cyberspace (SaTC) program
-  avatar: Avichal.jpg
+  avatar: jamesjoshi.jpg
+- name: Adam Berrey
+  title: |
+    PathCheck Foundation, President
+  avatar: adamberrey
+- name: Don Rucker
+  title: |
+    National Coordinator for Health Information Technology
+  avatar: donrucker.jpg
+- name: Jeff Jaffe
+  title: |
+    W3C, CEO
+  avatar: jeffjaffe.jpg
+- name: John Halamka
+  title: |
+    President of Mayo Clinic Platform
+  avatar: johnhalamka.jpg
+- name: J. T. Lane
+  title: |
+    ASTHO, Chief Population Health and Innovation Officer
+  avatar: jtlane.jpg
