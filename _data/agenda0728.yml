@@ -1,15 +1,15 @@
-- time: 9:00 - 9:30
+- time: 12:00
   sections: 
-    - title: Opening Comments
+    - title: "Opening Comments"
       #link: https://youtu.be/k-sIXplTssY
       speakers:
         - name: David Kong
         - name: Frank Moss
         - name: Ramesh Raskar  
           content: Trusted Pandemic Tech
-- time: 9:30 - 10:00
+- time: 12:10 - 12:30
   sections: 
-    - title: Trust in Pandemic Tech
+    - title: "Trust in Pandemic Tech"
       #link: https://youtu.be/XQ6E0Q8SY5c
       speakers: 
         - name: Lily Tsai
@@ -19,26 +19,26 @@
         - name: Gary Hatke
         - name: Omid Sabjadi
 
-- time: 10:00 - 10:30
+- time: 12:30
   sections:
-    - title: "Fireside Chat:"
-      link: https://youtu.be/fE0WMc8K_ow
+    - title: "Contact Tracing and US Congress"
+      #link: https://youtu.be/fE0WMc8K_ow
     - inline: true
       speakers:
-        - name: Yoshua Bengio
-        - name: Dawn Song 
-- time: 10:30 - 11:15
+        - name: Frank Moss
+        - name: Congressman Bill Foster
+- time: 1:00 - 1:30
   sections:
-    - title: Privacy-preserving contact-tracing projects
+    - title: Apps and Government
     - title: "Session A:"
-      link: https://youtu.be/aKAd3idQol4
+      #link: https://youtu.be/aKAd3idQol4
       speakers:
-        - name: Moti Yung
-          content: Google
-          link: https://www.google.com/covid19/exposurenotifications/
-        - name: Ron Rivest
-          content: PACT
-          link: https://pact.mit.edu/
+        - name: David Eaves
+          content: Harvard Kennedy School
+          #link: https://www.google.com/covid19/exposurenotifications/
+        - name: James Joshi
+          content: Director of Secure and Trustworthy Cyberspace (SaTC) program
+          #link: https://pact.mit.edu/
     - title: "Session B:"
       link: https://youtu.be/JxCmJtjJioY
       speakers:
