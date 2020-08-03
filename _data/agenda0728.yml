@@ -64,4 +64,8 @@
   sections:
     - title: "Private Roundtable 
       By inivitation, for Contact Tracing Experts and Stakeholders"
+      speakers:
+        - name: Luca Ferretti
+        - name: Suraj Kapa
+        - name: Thomas Kingsley
 
