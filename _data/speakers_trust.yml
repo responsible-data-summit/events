@@ -1,64 +1,64 @@
 - name: David Kong
   title: |
     Director, Community Biotechnology Initiative, MIT Media Lab
-  avatar: davidkong.jpg
+  #avatar: davidkong.jpg
 - name: Frank Moss 
   title: |
     Former Director of MIT Media Lab
-  avatar: frankmoss.jpg
+  #avatar: frankmoss.jpg
 - name: Lily Tsai
   title: |
     GovLab at MIT
-  avatar: lilytsai.jpg
+  #avatar: lilytsai.jpg
 - name: Tate Ryan-Mosley
   title: |
     MIT Tech Review
-  avatar: tateryan.jpg
+  #avatar: tateryan.jpg
 - name: Peko Hasoi
   title: |
     Professor of Mechanical Engineering and associate dean of engineering at the Massachusetts Institute of Technology.
-  avatar: pekohasoi.jpg
+  #avatar: pekohasoi.jpg
 - name: Marc Zissman
   title: |
     MIT Lincoln Labs  
-  avatar: marczissman.jpg
+  #avatar: marczissman.jpg
 - name: Gary Hatke
   title: |
     MIT Lincoln Labs
-  avatar: garyhatke.jpg
+  #avatar: garyhatke.jpg
 - name: Omid Sadjadi
   title: |
     NIST BlueTooth Challenge
-  avatar: omidsadjadi.jpg
+  #avatar: omidsadjadi.jpg
 - name: Congressman Bill Foster
   title: |
     Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
-  avatar: billfoster.jpg
+  #avatar: billfoster.jpg
 - name: David Eaves
   title: |
     Harvard Kennedy School
-  avatar: davideaves.jpg
+  #avatar: davideaves.jpg
 - name: James Joshi
   title: |
     Director of Secure and Trustworthy Cyberspace (SaTC) program
-  avatar: jamesjoshi.jpg
+  #avatar: jamesjoshi.jpg
 - name: Adam Berrey
   title: |
     PathCheck Foundation, President
-  avatar: Adamberrey.jpg
+  #avatar: Adamberrey.jpg
 - name: Don Rucker
   title: |
     National Coordinator for Health Information Technology
-  avatar: donrucker.jpg
+  #avatar: donrucker.jpg
 - name: Jeff Jaffe
   title: |
     W3C, CEO
-  avatar: jeffjaffe.jpg
+  #avatar: jeffjaffe.jpg
 - name: John Halamka
   title: |
     President of Mayo Clinic Platform
-  avatar: johnhalamka.jpg
+  #avatar: johnhalamka.jpg
 - name: J. T. Lane
   title: |
     ASTHO, Chief Population Health and Innovation Officer
-  avatar: jtlane.jpg
+  #avatar: jtlane.jpg
