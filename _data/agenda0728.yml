@@ -33,6 +33,7 @@
         - name: Frank Moss
           content: Moderator
         - name: Congressman Bill Foster
+          content: Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
 
 - time: 1:00 - 1:30
   sections:
@@ -46,12 +47,17 @@
           content: Director of Secure and Trustworthy Cyberspace (SaTC) program
           #link: https://pact.mit.edu/
         - name: Don Rucker
+          content: HHS
         - name: Jeff Jaffe
+          content: W3C
 
 - time: 1:30 - 2:00
   sections:
     - title: "Apps and Public Health"
       speakers:
         - name: Adam Berrey
+          content: Moderator
         - name: John Halamka
+          content: Mayo Clinic Platform
         - name: J. T. Lane
+          content: ASTHO
