@@ -1,4 +1,7 @@
-- name: Ramesh Raskar                                                                                                                                                                                    title: |                                                                                                                                                                                                 Professor, MIT Media Lab                                                                                                                                                                             avatar: Ramesh.png
+- name: Ramesh Raskar
+  title: |
+    Professor, MIT Media Lab
+  avatar: Ramesh.png
 
 - name: David Kong
   title: |
@@ -81,3 +84,17 @@
     ASTHO, Chief Population Health and Innovation Officer
   avatar: jtlane.jpg
 
+- name: Luca Ferretti
+  title: |
+    Big Data Institute, (Author of most cited digital contact tracing paper from University of Oxford)
+  avatar: unknown.jpg
+
+- name: Suraj Kapa
+  title: |
+    Mayo Clinic college of medicine
+  avatar: unknown.jpg
+
+- name: Thomas Kingsley
+  title: |
+    Mayo Clinic College of Medicine and Science.
+  avatar: unknown.jpg
