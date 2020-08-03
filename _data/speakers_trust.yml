@@ -1,3 +1,4 @@
+- name: Ramesh Raskar                                                                                                                                                                                    title: |                                                                                                                                                                                                 Professor, MIT Media Lab                                                                                                                                                                             avatar: Ramesh.png
 - name: David Kong
   title: |
     Director, Community Biotechnology Initiative, MIT Media Lab
@@ -8,6 +9,11 @@
   title: |
     Former Director of MIT Media Lab
   avatar: frankmoss.jpg
+
+- name: Congressman Bill Foster
+  title: |
+    Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
+  avatar: billfoster.jpg
 
 - name: Lily Tsai
   title: |
@@ -38,11 +44,6 @@
   title: |
     NIST BlueTooth Challenge
   avatar: omidsabjadi.jpg
-
-- name: Congressman Bill Foster
-  title: |
-    Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
-  avatar: billfoster.jpg
 
 - name: David Eaves
   title: |
