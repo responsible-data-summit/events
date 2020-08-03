@@ -1,6 +1,6 @@
 - time: 12:00 - 12:10
   sections: 
-    - title: "Opening Comments: Trusted Pandemic Tech"
+    - title: "Opening Comments: Trusted Pandemic Tech with Smartphones"
       #link: https://youtu.be/k-sIXplTssY
       speakers:
         - name: David Kong
@@ -8,7 +8,7 @@
         - name: Ramesh Raskar  
 - time: 12:10 - 12:30
   sections: 
-    - title: "Trust in Pandemic Tech"
+    - title: " Smartphone Based Solution "
       #link: https://youtu.be/XQ6E0Q8SY5c
       speakers: 
         - name: Lily Tsai
@@ -18,8 +18,6 @@
         - name: Peko Hasoi
           content: MIT Isolate Data-Science Program for Covid19
         - name: Marc Zissman
-          content: MIT PACT
-        - name: Gary Hatke
           content: MIT PACT
         - name: Omid Sabjadi
           content: NIST Bluetooth Challenge
