@@ -4,7 +4,6 @@
       #link: https://youtu.be/k-sIXplTssY
       speakers:
         - name: David Kong
-        - name: Frank Moss
         - name: Ramesh Raskar  
 - time: 12:10 - 12:30
   sections: 
@@ -15,8 +14,6 @@
           content: GovLab at MIT
         - name: Tate Ryan-Mosley
           content: Contact Tracing App Ranking
-        - name: Peko Hosoi
-          content: MIT Isolate Data-Science Program for Covid19
         - name: Marc Zissman
           content: MIT PACT
         - name: Omid Sadjadi
@@ -28,7 +25,7 @@
       #link: https://youtu.be/fE0WMc8K_ow
     - inline: true
       speakers:
-        - name: Frank Moss
+        - name: Ramesh Raskar
           content: Moderator
         - name: Congressman Bill Foster
           content: Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
@@ -53,19 +50,20 @@
   sections:
     - title: "Apps and Public Health"
       speakers:
-        - name: Adam Berrey
+        - name: Ramesh Raskar
           content: Moderator
         - name: John Halamka
           content: Mayo Clinic Platform
-        - name: J. T. Lane
-          content: ASTHO
+        - name: Luca Ferretti
+          content: Big Data Institute, Oxford
 
 - time: 2:00 - 3:00
   sections:
     - title: "Private Roundtable 
       By inivitation, for Contact Tracing Experts and Stakeholders"
       speakers:
-        - name: Luca Ferretti
         - name: Suraj Kapa
         - name: Thomas Kingsley
+        - name: Peko Hosoi
+        - name: Adam Berrey(Moderator)
 
