@@ -1,6 +1,6 @@
 - time: 12:00 - 12:10
   sections: 
-      - title: "Opening Comments: \"The Impossible App\" for Exposure Notification and Case Management"
+    - title: "Opening Comments: \"The Impossible App\" for Exposure Notification and Case Management"
       #link: https://youtu.be/k-sIXplTssY
       speakers:
         - name: David Kong
