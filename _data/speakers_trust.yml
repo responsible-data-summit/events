@@ -10,15 +10,15 @@
 
   link: https://www.linkedin.com/in/davidsunkong/
 
-- name: Congressman Bill Foster
-  title: |
-    Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
-  avatar: billfoster.png
-
 - name: Lily Tsai
   title: |
     GovLab at MIT
   avatar: lilytsai.jpg
+
+- name: Congressman Bill Foster
+  title: |
+    Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
+  avatar: billfoster.png
 
 - name: Tate Ryan-Mosley
   title: |
