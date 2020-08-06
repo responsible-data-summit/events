@@ -23,7 +23,6 @@
   sections:
     - title: "Contact Tracing and US Congress"
       #link: https://youtu.be/fE0WMc8K_ow
-    - inline: true
       speakers:
         - name: Ramesh Raskar
           content: Moderator
