@@ -1,13 +1,13 @@
 - time: 12:00 - 12:10
   sections: 
-    - title: "Opening Comments: Trusted Pandemic Tech with Smartphones"
+      - title: "Opening Comments: \"The Impossible App\" for Exposure Notification and Case Management"
       #link: https://youtu.be/k-sIXplTssY
       speakers:
         - name: David Kong
         - name: Ramesh Raskar  
 - time: 12:10 - 12:30
   sections: 
-    - title: " Smartphone Based Solution "
+    - title: "MIT and the Impossible App"
       #link: https://youtu.be/XQ6E0Q8SY5c
       speakers: 
         - name: Lily Tsai
@@ -32,7 +32,7 @@
 
 - time: 1:00 - 1:30
   sections:
-    - title: Apps and Government
+    - title: "Government and the Impossible App"
       #link: https://youtu.be/aKAd3idQol4
       speakers:
         - name: David Eaves
@@ -48,7 +48,7 @@
 
 - time: 1:30 - 2:00
   sections:
-    - title: "Apps and Public Health"
+    - title: "Public Health and the Impossible App"
       speakers:
         - name: Ramesh Raskar
           content: Moderator
@@ -59,10 +59,10 @@
 
 - time: 2:00 - 3:00
   sections:
-    - title: "Private Roundtable 
-      By inivitation, for Contact Tracing Experts and Stakeholders"
+    - title: "Private Roundtable By inivitation"
       speakers:
         - name: Suraj Kapa
+        - name: Jeff Jaffe
         - name: Thomas Kingsley
         - name: Peko Hosoi
         - name: Adam Berrey
