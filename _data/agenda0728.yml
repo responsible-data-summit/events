@@ -43,7 +43,7 @@
           #link: https://pact.mit.edu/
         - name: Don Rucker
           content: HHS
-        - name: Jeff Jaffe
+        - name: Wendy Seltzer
           content: W3C
 
 - time: 1:30 - 2:00
@@ -65,5 +65,6 @@
         - name: Suraj Kapa
         - name: Thomas Kingsley
         - name: Peko Hosoi
-        - name: Adam Berrey(Moderator)
+        - name: Adam Berrey
+        - content: Moderator
 
