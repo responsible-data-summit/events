@@ -1,6 +1,6 @@
 - time: 12:00 - 12:10
   sections: 
-  - title: "Opening Session: Challenges for GAEN efforts"
+    - title: "Opening Session: Challenges for GAEN efforts"
       #link: https://youtu.be/k-sIXplTssY
       speakers:
         - name: David Kong
