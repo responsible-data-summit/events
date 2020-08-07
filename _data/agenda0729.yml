@@ -1,0 +1,41 @@
+- time: 12:00 - 12:10
+  sections: 
+  - title: "Opening Session: Challenges for GAEN efforts"
+      #link: https://youtu.be/k-sIXplTssY
+      speakers:
+        - name: David Kong
+        - name: Ramesh Raskar  
+- time: 12:10 - 12:30
+  sections: 
+    - title: "GAEN Bluetooth Key Server"
+      #link: https://youtu.be/XQ6E0Q8SY5c
+      #speakers: 
+
+- time: 12:45 - 1:15
+  sections:
+    - title: "Building the GAEN app with Exposure Notification server V1.5"
+      #link: https://youtu.be/fE0WMc8K_ow
+      #speakers:
+
+- time: 1:15 - 1:45
+  sections:
+    - title: "Learning from  GAEN efforts in the US: Hear from leading GAEN teams about privacy, adoption, tech complexity and interface with public health"
+      #link: https://youtu.be/aKAd3idQol4
+      #speakers:
+
+- time: 1:45 - 2:00
+  sections:
+    - title: "Evaluation of GAEN apps: MIT Technology Review"
+      #speakers:
+
+- time: 2:00 - 3:00
+  sections:
+    - title: "Private Roundtable with Experts and GAEN teams"
+      speakers:
+        - name: Suraj Kapa
+        - name: Jeff Jaffe
+        - name: Thomas Kingsley
+        - name: Peko Hosoi
+        - name: Adam Berrey
+          content: Moderator
+
