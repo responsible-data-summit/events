@@ -31,11 +31,5 @@
 - time: 2:00 - 3:00
   sections:
     - title: "Private Roundtable with Experts and GAEN teams"
-      speakers:
-        - name: Suraj Kapa
-        - name: Jeff Jaffe
-        - name: Thomas Kingsley
-        - name: Peko Hosoi
-        - name: Adam Berrey
-          content: Moderator
+      #speakers:
 
