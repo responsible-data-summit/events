@@ -14,14 +14,18 @@
 - time: 12:45 - 1:15
   sections:
     - title: "Building the GAEN app with Exposure Notification server V1.5"
+      speakers:
+        - name: Sam Zimmerman
       #link: https://youtu.be/fE0WMc8K_ow
-      #speakers:
 
 - time: 1:15 - 1:45
   sections:
     - title: "Learning from  GAEN efforts in the US: Hear from leading GAEN teams about privacy, adoption, tech complexity and interface with public health"
       #link: https://youtu.be/aKAd3idQol4
-      #speakers:
+      speakers:
+        - name: Paresh Dave
+        - name: States with apps participating
+          content: Alabama, Pennsylvania, Virginia, North Dakota
 
 - time: 1:45 - 2:00
   sections:
