@@ -1,3 +1,11 @@
+- time: 12:00 - 3:00
+  sections:
+    - title: Host of the Event
+      speakers:
+      - name: Vivek Sharma
+        aff: Researcher, MIT/Harvard
+        avatar: VivekS.jpg
+
 - time: 12:00 - 12:10
   sections: 
     - title: "Opening Session: Challenges for GAEN efforts"
