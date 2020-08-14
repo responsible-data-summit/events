@@ -11,8 +11,8 @@
     - title: "Opening Session: Challenges for GAEN efforts"
       #link: https://youtu.be/k-sIXplTssY
       speakers:
-        - name: David Kong
         - name: Ramesh Raskar  
+        - name: David Kong
 - time: 12:10 - 12:30
   sections: 
     - title: "GAEN Bluetooth Server"
