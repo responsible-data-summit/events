@@ -1,0 +1,50 @@
+- time: 12:00 - 3:00
+  sections:
+    - title: Host of the Event
+      speakers:
+      - name: Vivek Sharma
+        aff: Researcher, MIT/Harvard
+        avatar: VivekS.jpg
+
+- time: 12:00 - 12:10
+  sections: 
+    - title: "Opening Session: Challenges for GAEN efforts"
+      #link: https://youtu.be/k-sIXplTssY
+      speakers:
+        - name: David Kong
+        - name: Ramesh Raskar  
+- time: 12:10 - 12:30
+  sections: 
+    - title: "GAEN Bluetooth Server"
+      speakers:
+        - name: Nate Yohannes
+          affiliation: Microsoft
+        - name: Jeff Day
+          affiliation: Microsoft
+      #link: https://youtu.be/XQ6E0Q8SY5c
+      #speakers: 
+
+- time: 12:30 - 1:00
+  sections:
+    - title: "Building the GAEN app with Exposure Notification server V1.5"
+      speakers:
+        - name: Sam Zimmerman
+        - name: Lina Martensson
+      #link: https://youtu.be/fE0WMc8K_ow
+
+- time: 1:00 - 1:15
+  sections:
+    - title: "MIT COVID Presentations"
+      #link: https://youtu.be/aKAd3idQol4
+      #speakers:
+
+- time: 1:15 - 2:00
+  sections:
+    - title: "Discussion on Verification Server"
+      #speakers:
+
+- time: 2:00 - 3:00
+  sections:
+    - title: "Private Roundtable with Experts and GAEN teams"
+      #speakers:
+
