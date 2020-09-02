@@ -1,0 +1,15 @@
+- time: 1:00 - 2:00
+  sections: 
+    - title: "EN Express vs Full GAEN App: Benefits and Challenges"
+      #link: https://youtu.be/k-sIXplTssY
+      speakers:
+        - name: Ramesh Raskar
+        - name: Larus Jim
+        - name: Thomas Kingsley
+        - name: Sam Zimmerman
+
+- time: 2:00 - 2:30
+  sections:
+    - title: "Private Roundtable with Experts and GAEN teams"
+      #speakers:
+
