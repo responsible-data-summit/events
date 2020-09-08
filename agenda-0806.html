@@ -28,6 +28,7 @@ title: Agenda
                             {% endunless %}
                             >
                                 {% if section.register %}
+                                    <b>{{section.title}} </b> {{section.comment}}
                                     <a href="{{section.register}}" class="ui red circular label">By Invitation Only</a>
                                 {% else %}
                                     <b>{{section.title}} </b> {{section.comment}}
