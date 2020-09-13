@@ -1,0 +1,12 @@
+- time: 12:00 - 2:00
+  sections: 
+    - title: "EN Express and Reports from US State teams"
+      register: "https://mit.zoom.us/webinar/register/WN_UZS0ylraTnKQSS7V_nUxCQ"
+      speakers:
+        - name: Ramesh Raskar
+        - name: Sam Zimmerman
+          content: EN express guidelines
+          link: "https://pathcheck.org/pathcheck-launches-solutions-for-en-express-unveiled-by-google-apple"
+        - name: Jeff Stover
+        - name: Suresh Soundararajan
+        - name: Corey Mercy
