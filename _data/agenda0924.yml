@@ -1,0 +1,11 @@
+- time: 12:00 - 2:00
+  sections: 
+    - title: "MIT roundtable on Innovation Roadmap beyond Google/Apple Exposure Notification"
+      register: "https://mit.zoom.us/webinar/register/WN_XKgmjyZSQEO5GcHG-8NGkA"
+      speakers:
+        - name: Ramesh Raskar
+          content: pandemic.mit.edu
+          link: "https://pandemic.mit.edu/"
+        - name: Adam Berrey
+          content: Pathcheck Foundation
+          link: "https://pathcheck.org/"

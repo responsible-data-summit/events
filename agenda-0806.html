@@ -9,6 +9,83 @@ title: Agenda
 		</a>
 	</div>
     <div class="ui container center aligned agenda">
+        <h1> MIT roundtable on Innovation Roadmap beyond Google/Apple Exposure Notification </h1>
+	<h1> 24th September <a href="https://mit.zoom.us/webinar/register/WN_XKgmjyZSQEO5GcHG-8NGkA" class="ui red circular huge label">Registration Link </a></h1>
+    </div>
+    <div class="ui container left aligned agenda">
+        <table class="ui striped large table">
+            <thead>
+                <tr>
+                    <th>Time</th>
+                    <th>Event</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for event in site.data.agenda0924 %}
+                    <tr style="line-height: 2.4em;">
+                        <td>{{event.time}} EDT </td>
+                        <td>
+                            {% for section in event.sections %}
+                            <div 
+                            {% unless forloop.index == 1 %}
+                                style="padding-left: 2em;"
+                            {% endunless %}
+                            >
+                                {% if section.register %}
+                                    <b>{{section.title}} </b> {{section.comment}}
+                                    <a href="{{section.register}}" class="ui red circular label">Register</a>
+                                {% else %}
+                                    <b>{{section.title}} </b> {{section.comment}}
+                                {% endif %}
+                                {% for speaker in section.speakers %}
+                                    {% assign name = speaker.name %}
+                                    {% assign aff = speaker.aff %}
+                                    {% if speaker.avatar %}
+                                        {% assign avatar = speaker.avatar %}
+                                    {% else %}
+                                        {% assign avatar = "unknown.jpg" %}
+                                    {% endif %}
+                                    {% for find_speaker in site.data.speakers_trust %}
+                                        {% if find_speaker.name == name %}
+                                            {% assign aff = find_speaker.title%}
+                                            {% assign avatar = find_speaker.avatar%}
+                                        {% endif %}
+                                    {% endfor %}
+                                    {% for find_speaker in site.data.speakers_pandemic %}
+                                        {% if find_speaker.name == name %}
+                                            {% assign aff = find_speaker.title%}
+                                            {% assign avatar = find_speaker.avatar%}
+                                        {% endif %}
+                                    {% endfor %}
+                                    {% unless forloop.index == 1 and section.inline %}
+                                    <br> 
+                                    {% endunless %}
+                                    &bull; 
+                                    {% if speaker.link %}
+                                        <a href="{{speaker.link}}">{{speaker.content}}</a>
+                                    {% else %}
+                                        {{speaker.content}}
+                                    {% endif %}
+                                    <a class="ui image label small">
+                                        <img class="ui circular image" src="assets/img/speakers/{{avatar}}" style="border-radius: 500rem;">
+                                        {{name}}
+                                        <div class="detail" title="{{aff}}">{{aff | truncate: site.agenda_aff_length }}</div>
+                                    </a>
+                                    {{speaker.comment}}
+                                {% endfor %}
+                            </div>
+                            {% endfor %}
+                        </td>
+                    </tr>
+                {% endfor %}
+
+            </tbody>
+        </table>
+    </div>
+
+</section>
+<section class="ui segment center aligned" style="background-color: rgb(0, 204, 102, 1);">
+    <div class="ui container center aligned agenda">
         <h1> EN Express and Reports from US state teams  </h1>
 	<h1> 17th September <a href="https://mit.zoom.us/webinar/register/WN_OCnr9ivYQ9eISczvCNgMPQ" class="ui red circular huge label">Registration Link </a></h1>
     </div>
