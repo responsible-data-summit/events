@@ -3,4 +3,5 @@
     - title: "MIT roundtable on EN Express App and Campus Pilots"
       register: "https://mit.zoom.us/webinar/register/WN_J08Ok9ptTeGhOKowBX8I-Q"
       speakers:
-        - name: Wendy-Kay Logan
+        - name: Wendy-Kay Logan, Google
+        - name: Ramesh Raskar
