@@ -4,4 +4,6 @@
       register: "https://mit.zoom.us/webinar/register/WN_J08Ok9ptTeGhOKowBX8I-Q"
       speakers:
         - name: Wendy-Kay Logan, Google
+        - name: Randy Marsden
+        - name: Steph Hannon
         - name: Ramesh Raskar
