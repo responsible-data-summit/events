@@ -1,10 +1,11 @@
 - time: 12:00 - 2:00
   sections: 
     - title: "ENX Deployment with UC San Diego and Google"
-      register: "https://mit.zoom.us/webinar/register/WN_J08Ok9ptTeGhOKowBX8I-Q"
+      register: "https://mit.zoom.us/webinar/register/WN_g4B3zQUxSMqcqfi8z8g_8w"
       speakers:
         - name: Wendy-Kay Logan, Google
         - name: Steph Hannon
         - name: Christopher Longhurst
         - name: Ramesh Raskar
         - name: Sam Zimmerman
+          content: Verification code generation and server
