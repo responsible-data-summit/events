@@ -1,0 +1,12 @@
+- time: 12:00 - 2:00
+  sections: 
+    - title: "EN Verification Server and Covid19 Testing Sites"
+      register: "https://mit.zoom.us/webinar/register/WN_BVJlUjN4SiOl8hq-iE2qdQ"
+      speakers:
+        - name: Corey Mercey
+        - name: Vince Munoz
+        - name: Rajesh Pillai
+        - name: Brian Rivers
+        - name: Sam Zimmerman
+          content: Verification server
+        - name: Ramesh Raskar
