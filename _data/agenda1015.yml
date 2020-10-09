@@ -3,7 +3,7 @@
     - title: "EN Verification Server and Covid19 Testing Sites"
       register: "https://mit.zoom.us/webinar/register/WN_BVJlUjN4SiOl8hq-iE2qdQ"
       speakers:
-        - name: Corey Mercey
+        - name: Corey Mercy
         - name: Vince Munoz
         - name: Rajesh Pillai
         - name: Brian Rivers
