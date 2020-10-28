@@ -1,0 +1,6 @@
+- time: 1:00 - 2:30
+  sections: 
+    - title: "EN Apps for COVID Testing Support"
+      register: "https://mit.zoom.us/webinar/register/WN_WTr408rGTbuWgc8-lSl7sQ"
+      speakers:
+        - name: Ramesh Raskar
