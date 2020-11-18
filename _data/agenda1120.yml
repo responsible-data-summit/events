@@ -1,6 +1,6 @@
 - time: 12:00 - 1:00
   sections: 
-- title: "MIT roundtable: EN Apps for Covid19 Testing Support"
+   - title: "MIT roundtable: EN Apps for Covid19 Testing Support"
       register: "https://mit.zoom.us/webinar/register/WN_kCcKfoE-SFyCsYbRAvVcMQ"
       speakers:
         - name: Ramesh Raskar
