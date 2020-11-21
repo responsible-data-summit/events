@@ -233,7 +233,7 @@ section.ui.segment .ui.container.agenda h1 {
     width: 551px;
     margin-top: 4rem;
 }
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
     #congressman-video, #about #intro-paragraph {
         width: 100%!important;
     }
