@@ -1,24 +1,31 @@
-- time: 12:00 - 1:00
+- time: 9:00 - 9:30
   sections: 
     - title: "Keynote Speakers"
       register: "https://docs.google.com/forms/d/e/1FAIpQLSc51GNcM_tYxd-fBQ2YPTK5zClCGA2fju3Wu7O1oJn_a96xeg/viewform"
       speakers:
         - name: Global/National Public Health Leaders
+- time: 9:30 - 10:00
+  sections: 
     - title: "Public Health Officials - How ready we are?"
       speakers:
         - name: Panel Discussion - State/County/City Officials
+- time: 10:00 - 10:30
+  sections: 
     - title: "Vaccine Manufacturers - Unaddressed Challenges"
       speakers:
         - name: Leading Vaccine Manufacturers
+- time: 10:30 - 11:00
+  sections: 
     - title: "Policy and Ethics - How can we ensure equitable access?"
       speakers:
         - name: Research and Academias
+- time: 11:00 - 11:30
+  sections: 
     - title: "Vaccine Administration - Risks and Challenges"
       speakers:
         - name:  Healthcare Providers, Hospitals, Provider Groups
+- time: 11:30 - 12:00
+  sections: 
     - title: "Digital Solutions for Vaccine Distribution and Workflows"
       speakers:
         - name: Technology Partners
-- time: 1:00 - 1:30
-  sections:
-    - title: "Optional: Informal conversation with experts on State challenges"

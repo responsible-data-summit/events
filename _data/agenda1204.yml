@@ -1,0 +1,9 @@
+- time: 12:00 - 1:00
+  sections: 
+    - title: "Testing Strategy to match virus kinetics over time"
+      register: "https://mit.zoom.us/webinar/register/WN_kCcKfoE-SFyCsYbRAvVcMQ"
+      speakers:
+        - name: Daniel B Larremore
+- time: 1:00 - 1:30
+  sections:
+    - title: "Optional: Informal conversation with experts on State challenges"
