@@ -2,7 +2,32 @@
 layout: default
 title: Pandemic
 ---
-
+<style>
+    a.button1{
+        display:inline-block;
+        padding:0.35em 1.2em;
+        border:0.1em solid #FFFFFF;
+        margin:0 0.3em 0.3em 0;
+        border-radius:0.12em;
+        box-sizing: border-box;
+        text-decoration:none;
+        font-family:'Roboto',sans-serif;
+        font-weight:300;
+        color:#FFFFFF;
+        text-align:center;
+        transition: all 0.2s;
+    }
+    a.button1:hover{
+        color:#000000;
+        background-color:#FFFFFF;
+    }
+    @media all and (max-width:30em){
+        a.button1{
+            display:block;
+            margin:0.4em auto;
+        }
+    }
+</style>
 <div class="masthead ui segment center aligned"
     style="background-image: linear-gradient(rgba(0, 204, 202, 0.8), rgba(0, 204, 202, 0.8)), url('/assets/img/bg1.jpg');">
     
@@ -25,9 +50,8 @@ title: Pandemic
 	</div>-->
         <div class="ui divider"></div>
         <div class="four green ui buttons">
-            <a class="ui medium button" style="margin: 0em;" href="https://docs.google.com/forms/d/e/1FAIpQLSc51GNcM_tYxd-fBQ2YPTK5zClCGA2fju3Wu7O1oJn_a96xeg/viewform">Register</a>
-            <a class="ui medium button" style="margin: 0em;" href="/events/agenda-0806">Agenda</a>
-            <a class="ui medium button" style="margin: 0em;" href="/events/agenda-0806">Agenda for MIT Conference on Vaccines For All</a>
+            <a href="/events/agenda-0806"><button>Agenda</button></a>
+            <a href="/events/agenda-0806"><button>Vaccine Conference Agenda</button></a>
         </div>
         <br>
     </div>
@@ -40,21 +64,22 @@ title: Pandemic
                 <h1 style="text-align: center;">
                     Trusted Pandemic Tech
                 </h1>
-                <p style="clear: right;">
-			The mission of the MIT Program for Trusted Pandemic Technologies is to help public health professionals rapidly overcome challenging barriers they encounter as they engage citizens as active participants in digital solutions for fighting COVID-19 and future pandemics.
+                <iframe width="600" height="315" src="https://www.youtube.com/embed/iLk9_SdJpco" style="float:right;margin-left:auto;margin-right:auto;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p>
+		            The mission of the MIT Program for Trusted Pandemic Technologies is to help public health professionals rapidly overcome challenging barriers they encounter as they engage citizens as active participants in digital solutions for fighting COVID-19 and future pandemics.
                 </p>
-                <p style="clear: right;">
-			The initial focus of the program will be to work with state public health officials as they design and deploy exposure notification and digital contact tracing for COVID-19. Subsequent initiatives under consideration include surveillance/monitoring and predictive modeling so that we as a society are much better prepared for future pandemics. 
+                <p>
+		            The initial focus of the program will be to work with state public health officials as they design and deploy exposure notification and digital contact tracing for COVID-19. Subsequent initiatives under consideration include surveillance/monitoring and predictive modeling so that we as a society are much better prepared for future pandemics. 
                 </p>
-		<p>
-			The founding belief of the program is that when it comes to engaging citizens in a quest for the common good, especially public health, trust at all levels and among all participants is mandatory for success.
-		</p>
-		<p style="clear: right;">
-			The biggest challenges in designing digital solutions which engage citizens are human and societal as well as technologic. The program therefore functions as a tight collaboration among experts from a variety of disciplines. These include information science, public health, biotechnology, behavioral economics and public policy.
-		</p>
-		<p style="clear: right;">
-			To accomplish its mission the program will function as a totally open and neutral venue that partners with government, academia and industry to advance basic knowledge as well as accelerate the practical and application of that knowledge to solutions that save lives and reduce human suffering.
-		</p>
+		        <p>
+		            The founding belief of the program is that when it comes to engaging citizens in a quest for the common good, especially public health, trust at all levels and among all participants is mandatory for success.
+		        </p>
+		        <p>
+		            The biggest challenges in designing digital solutions which engage citizens are human and societal as well as technologic. The program therefore functions as a tight collaboration among experts from a variety of disciplines. These include information science, public health, biotechnology, behavioral economics and public policy.
+	        	</p>
+		        <p>
+		            To accomplish its mission the program will function as a totally open and neutral venue that partners with government, academia and industry to advance basic knowledge as well as accelerate the practical and application of that knowledge to solutions that save lives and reduce human suffering.
+		        </p>
             </div>
         </div>
     </div>
