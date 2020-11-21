@@ -4,23 +4,18 @@
       register: "https://docs.google.com/forms/d/e/1FAIpQLSc51GNcM_tYxd-fBQ2YPTK5zClCGA2fju3Wu7O1oJn_a96xeg/viewform"
       speakers:
         - name: Global/National Public Health Leaders
-  sections:
     - title: "Public Health Officials - How ready we are?"
       speakers:
         - name: Panel Discussion - State/County/City Officials
-  sections:
     - title: "Vaccine Manufacturers - Unaddressed Challenges"
       speakers:
         - name: Leading Vaccine Manufacturers
-  sections:
     - title: "Policy and Ethics - How can we ensure equitable access?"
       speakers:
         - name: Research and Academias
-  sections:
     - title: "Vaccine Administration - Risks and Challenges"
       speakers:
         - name:  Healthcare Providers, Hospitals, Provider Groups
-  sections:
     - title: "Digital Solutions for Vaccine Distribution and Workflows"
       speakers:
         - name: Technology Partners
