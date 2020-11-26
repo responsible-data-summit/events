@@ -29,7 +29,7 @@
 
 - name: Peko Hosoi
   title: |
-    Professor of Mechanical Engineering and associate dean of engineering at the Massachusetts Institute of Technology.
+    Professor of Mechanical Engineering and Associate Dean of Engineering at the Massachusetts Institute of Technology
   avatar: pekohosoi.png
 
 - name: Marc Zissman
@@ -89,17 +89,18 @@
 
 - name: Luca Ferretti
   title: |
-    Big Data Institute, (Author of most cited digital contact tracing paper from University of Oxford)
+    Big Data Institute
+    Author of most-cited digital contact tracing paper from the University of Oxford
   avatar: lucaferretti.png
 
 - name: Suraj Kapa
   title: |
-    Mayo Clinic college of medicine
+    Mayo Clinic College of Medicine
   avatar: surajkapa.png
 
 - name: Thomas Kingsley
   title: |
-    Mayo Clinic College of Medicine and Science.
+    Mayo Clinic College of Medicine and Science
   avatar: thomaskingsley.jpg
 
 - name: Wendy Seltzer
