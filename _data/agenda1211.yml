@@ -9,23 +9,33 @@
     - title: "Public Health: Technology for Health Outcomes"
       speakers:
         - name: Panel Discussion - State/County/City Officials
+        - name: Susan Blumenthal
+          content: "Moderator"
 - time: 10:00 - 10:30
   sections: 
     - title: "Vaccine Makers: Logistics Challenges"
       speakers:
         - name: Leading Vaccine Manufacturers
+        - name: Colin Raney
+          content: "Moderator"
 - time: 10:30 - 11:00
   sections: 
     - title: "Policy and Ethics: Equitable Access"
       speakers:
         - name: Research and Academias
+        - name: Sherley Bergin
+          content: "Moderator"
 - time: 11:00 - 11:30
   sections: 
     - title: "Vaccine Administration: Trust in Residents"
       speakers:
         - name:  Healthcare Providers, Hospitals, Provider Groups
+        - name: Nicholas St. Fleur
+          content: "Moderator"
 - time: 11:30 - 12:00
   sections: 
     - title: "Digital Partners: User-Centric Solutions"
       speakers:
         - name: Technology Partners
+        - name: Dakota Granier
+          content: "Moderator"
