@@ -68,7 +68,7 @@ title: Agenda
                                     {% else %}
                                         {{speaker.content}}
                                     {% endif %}
-                                    <a class="ui image label small" href="{{speaker.link}}">
+                                    <a class="ui image label small" href="{{link}}">
                                         <img class="ui circular image" src="assets/img/speakers/{{avatar}}" style="border-radius: 500rem;">
                                         {{name}}
                                         <div class="detail" title="{{aff}}">{{aff | truncate: site.agenda_aff_length }}</div>
