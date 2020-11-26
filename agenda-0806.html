@@ -46,6 +46,11 @@ title: Agenda
                                         {% if find_speaker.name == name %}
                                             {% assign aff = find_speaker.title%}
                                             {% assign avatar = find_speaker.avatar%}
+                                            {% if find_speaker.link %}
+                                                {% assign link = find_speaker.link %}
+                                            {% else %}
+                                                {% assign link = "#" %}
+                                            {% endif %}
                                         {% endif %}
                                     {% endfor %}
                                     {% for find_speaker in site.data.speakers_pandemic %}
