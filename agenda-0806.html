@@ -46,6 +46,11 @@ title: Agenda
                                         {% if find_speaker.name == name %}
                                             {% assign aff = find_speaker.title%}
                                             {% assign avatar = find_speaker.avatar%}
+                                            {% if find_speaker.link %}
+                                                {% assign link = find_speaker.link %}
+                                            {% else %}
+                                                {% assign link = "#" %}
+                                            {% endif %}
                                         {% endif %}
                                     {% endfor %}
                                     {% for find_speaker in site.data.speakers_pandemic %}
@@ -63,7 +68,7 @@ title: Agenda
                                     {% else %}
                                         {{speaker.content}}
                                     {% endif %}
-                                    <a class="ui image label small">
+                                    <a class="ui image label small" href="{{link}}">
                                         <img class="ui circular image" src="assets/img/speakers/{{avatar}}" style="border-radius: 500rem;">
                                         {{name}}
                                         <div class="detail" title="{{aff}}">{{aff | truncate: site.agenda_aff_length }}</div>
