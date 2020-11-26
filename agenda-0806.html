@@ -4,7 +4,7 @@ title: Agenda
 ---
 <section class="ui segment center aligned" style="background-color: #48b775;">
     <div class="ui container center aligned agenda">
-	    <h1> THE MIT "VACCINES FOR ALL" CONFERENCE </h1>
+	    <h1> THE MIT "VACCINES FOR ALdL" CONFERENCE </h1>
 	    <h1> December 11, 2020 | 9:00 AM EDT - 12:00 PM EDT <a href="https://www.eventbrite.com/e/the-mit-vaccines-for-all-conference-tickets-130369910913" class="ui red circular huge label">Register</a></h1>
             <h2 style="color:#F3F2F7; font-weight:normal;">The Vaccines for All Conference will bring together experts and stakeholders to discuss challenges in designing digital solutions for COVID-19 vaccination that engage citizens in four core areas - logistics, health outcomes, user-centric impact, and communication.
             <br>Disparities in equitable distribution, vaccine efficacy, duration of immunity, two-dose adherence, and privacy-focused user experience are among the most critical difficulties that must be addressed.
@@ -44,14 +44,24 @@ title: Agenda
                                     {% endif %}
                                     {% for find_speaker in site.data.speakers_trust %}
                                         {% if find_speaker.name == name %}
-                                            {% assign aff = find_speaker.title%}
-                                            {% assign avatar = find_speaker.avatar%}
+                                            {% assign aff = find_speaker.title %}
+                                            {% assign avatar = find_speaker.avatar %}
+                                            {% if find_speaker.link %}
+                                                {% assign link = find_speaker.link %}
+                                            {% else %}
+                                                {% assign link = "#" %}
+                                            {% endif %}
                                         {% endif %}
                                     {% endfor %}
                                     {% for find_speaker in site.data.speakers_pandemic %}
                                         {% if find_speaker.name == name %}
                                             {% assign aff = find_speaker.title%}
                                             {% assign avatar = find_speaker.avatar%}
+                                            {% if find_speaker.link %}
+                                                {% assign link = find_speaker.link %}
+                                            {% else %}
+                                                {% assign link = "#" %}
+                                            {% endif %}
                                         {% endif %}
                                     {% endfor %}
                                     {% unless forloop.index == 1 and section.inline %}
