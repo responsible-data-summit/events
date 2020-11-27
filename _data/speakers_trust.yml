@@ -1,3 +1,27 @@
+- name: Anuradha Gupta
+  title: |
+    Deputy CEO at Gavi, the Vaccine Alliance
+  avatar: anuradhagupta.jpeg
+  link: https://www.linkedin.com/in/anuradha-gupta-gavi/
+
+- name: James Rathmell
+  title: |
+    Chair, Department of Anesthesiology, Perioperative and Pain Medicine at Brigham and Women's Hospital
+  avatar: jamesrathmell.jpeg
+  link: https://www.linkedin.com/in/james-rathmell-2a605254/
+
+- name: Lawrence Gostin
+  title: |
+    Director at WHO Center on Public Health & Human Rights and Chaired Professor at Georgetown University
+  avatar: lawrencegostin.jpeg
+  link: https://twitter.com/LawrenceGostin
+
+- name: David Cardenas
+  title: |
+    CIO, Los Angeles Dept. of Public Health
+  avatar: davidcardenas.jpeg
+  link: https://www.linkedin.com/in/david-cardenas-42100010/
+
 - name: Dakota Gruener
   title: |
     ID2020 Executive Director
