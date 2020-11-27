@@ -1,104 +1,193 @@
-- name: Ramesh Raskar
+- name: Anuradha Gupta
   title: |
-    Professor, MIT Media Lab
-  avatar: Ramesh.png
-  link: https://www.linkedin.com/in/raskar/
+    Deputy CEO at Gavi, the Vaccine Alliance
+  avatar: anuradhagupta.jpeg
+  link: https://www.linkedin.com/in/anuradha-gupta-gavi/
 
-- name: David Kong
+- name: James Rathmell
   title: |
-    Director, Community Biotechnology Initiative, MIT Media Lab
-  avatar: davidkong.jpg
-  link: https://www.linkedin.com/in/davidsunkong/
+    Chair, Department of Anesthesiology, Perioperative and Pain Medicine at Brigham and Women's Hospital
+  avatar: jamesrathmell.jpeg
+  link: https://www.linkedin.com/in/james-rathmell-2a605254/
 
-- name: Lily Tsai
+- name: Lawrence Gostin
   title: |
-    Ford Professor of Political Science and Director of MIT GOV/LAB
-  avatar: lilytsai.jpg
-  link: https://mitgovlab.org/people/lily-tsai/
+    Director at WHO Center on Public Health & Human Rights and Chaired Professor at Georgetown University
+  avatar: lawrencegostin.jpeg
+  link: https://twitter.com/LawrenceGostin
 
-- name: Congressman Bill Foster
+- name: David Cardenas
   title: |
-    Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
-  avatar: billfoster.png
-  link: https://foster.house.gov/
+    CIO, Los Angeles Dept. of Public Health
+  avatar: davidcardenas.jpeg
+  link: https://www.linkedin.com/in/david-cardenas-42100010/
 
-- name: Tate Ryan-Mosley
+- name: Dakota Gruener
   title: |
-    MIT Tech Review
-  avatar: tateryan.jpg
-  link: https://www.linkedin.com/in/tate-ryan-mosley-98377889/
+    ID2020 Executive Director
+  avatar: dakotagruener.jpg
+  link: https://www.linkedin.com/in/dakotagruener
 
-- name: Peko Hosoi
+- name: Susan Blumenthal
   title: |
-    Professor of Mechanical Engineering and Associate Dean of Engineering at the Massachusetts Institute of Technology
-  avatar: pekohosoi.png
-  link: https://www.linkedin.com/in/anette-hosoi-a37876145
+    Former US Assistant Surgeon General and Deputy Assistant Secretary for Women's Health
+  avatar: susanblumenthal.jpg
+  link: https://www.linkedin.com/in/susan-blumenthal-530bb819
 
-- name: Marc Zissman
+- name: Jagjit Dhaliwal
   title: |
-    MIT Lincoln Labs  
-  avatar: marczissman.png
-  link: https://www.linkedin.com/in/marc-zissman-1036a74
+    Deputy CIO, Los Angeles
+  avatar: jagjitdhaliwal.jpg
+  link: https://www.linkedin.com/in/jagjitdhaliwal
 
-- name: Gary Hatke
+- name: Nicholas St. Fleur
   title: |
-    MIT Lincoln Labs
-  avatar: garyhatke.jpg
-  link: https://www.linkedin.com/in/gary-hatke-6a1423a5
+    Knight-Wallace Reporting Fellow at STAT
+  avatar: nicholasfleur.jpg
+  link: https://www.linkedin.com/in/scifleur
 
-- name: Omid Sadjadi
+- name: Colin Raney
   title: |
-    NIST BlueTooth Challenge
-  avatar: omidsabjadi.png
-  link: https://ir.linkedin.com/in/osadjadi
+    CMO at PillPack
+  avatar: colinraney.jpg
+  link: https://www.linkedin.com/in/colinraney
 
-- name: David Eaves
+- name: Shirley Bergin
   title: |
-    Harvard Kennedy School
-  avatar: davideaves.jpg
-  link: https://www.linkedin.com/in/davideaves
+    COO/CMO, Executive Director and Producer, The TEDMED Foundation (TEDMED)
+  avatar: shirleybergin.jpg
+  link: https://www.linkedin.com/in/shirleybergin/
 
-- name: James Joshi
+- name: Daniel B Larremore
   title: |
-    NSF
-  avatar: jamesjoshi.jpg
-  link: https://www.linkedin.com/in/james-joshi-8b4b75/
+    Assistant Professor, University of Colorado Boulder
+  avatar: daniellarremore.png
+  link: https://www.linkedin.com/in/daniel-larremore-79a6ab83
 
-- name: Adam Berrey
+- name: Mike Judd
   title: |
-    PathCheck Foundation, President
-  avatar: adamberrey.jpg
-  link: https://www.linkedin.com/in/adamberrey
+    CDC, Lead, COVID-19 Exposure Notification Initiative
+  avatar: mikejudd.jpg
+  link: https://www.linkedin.com/in/michaelcjudd
 
-- name: Don Rucker
+- name: Vince Munoz
   title: |
-    National Coordinator for Health Information Technology
-  avatar: donrucker.jpg
-  link: https://www.linkedin.com/in/donruckermd
+    Guam, Managing Partner Next Generation LLC
+  avatar: vincemunoz.jpg
+  link: https://gu.linkedin.com/in/vince-munoz-214b1b51
 
-- name: Jeff Jaffe
+- name: Christopher Longhurst
   title: |
-    W3C, CEO
-  avatar: jeffjaffe.jpg
-  link: https://www.linkedin.com/in/jjaffe
+    CIO and Associate CMO at UC San Diego Health
+  avatar: christopherlonghurst.jpg
+  link: https://www.linkedin.com/in/chrislonghurst
 
-- name: John Halamka
+- name: Steph Hannon
   title: |
-    President of Mayo Clinic Platform
-  avatar: johnhalamka.jpg
-  link: https://www.linkedin.com/in/johnhalamka
+    Google, Senior Director of Project Management
+  avatar: stephhannon.jpg
+  link: https://www.linkedin.com/in/skhannon
 
-- name: Kevin Esvelt
+- name: Randy Marsden
   title: |
-    Assistant Professor, MIT Media Lab
-  avatar: kevinesvelt.jpg
-  link: https://www.linkedin.com/in/kevin-esvelt-a8388a31
+    Apple, Special Projects Manager
+  avatar: randymarsden.jpg
+  link: https://www.linkedin.com/in/randymarsden
 
-- name: Landon Cox
+- name: Wendy-Kay Logan, Google
+  title: |
+    Google EN Express App
+  avatar: wendykaylogan.jpg
+  link: https://www.linkedin.com/in/wlogan
+
+- name: Corey Mercy
+  title: |
+    North Carolina
+  avatar: coreymercey.jpg
+  link: https://www.linkedin.com/in/coreymercy
+
+- name: Jeff Stover
+  title: |
+    Virginia, Director, Health Informatics & Integrated Surveillance Systems
+  avatar: jeffstover.jpg
+
+- name: Suresh Soundararajan
+  title: |
+    Chief Information Officer, Virginia Department of Health
+  avatar: sureshsoundararajan.jpg
+  link: https://www.linkedin.com/in/suresh-soundararajan-a7925712
+
+- name: Larus Jim
+  title: |
+    SwissCovid and DP3T
+  avatar: larusjim.png
+  link: https://ch.linkedin.com/in/james-larus-42b3476
+
+- name: Rajesh Pillai
+  title: |
+    Alabama, Systems Analyst Architect
+  avatar: rajeshpillai.jpg
+  link: https://www.linkedin.com/in/rajesh-pillai-87b0714
+
+- name: Brian Rivers
+  title: |
+    Alabama, AVP-Chief Technology Officer
+  avatar: brianrivers.jpg
+  link: https://www.linkedin.com/in/brian-rivers-a256b43
+
+- name: Sue Feldman
+  title: |
+    Director and Professor. Graduate Programs in Health Informatics
+  avatar: suefeldman.png
+  link: https://www.linkedin.com/in/suefeldman
+
+- name: Jeff Day
   title: |
     Microsoft
-  avatar: landancox.jpg
-  link: https://www.linkedin.com/in/landon-cox-6727363
+  avatar: jeffday.jpg
+  link: https://www.linkedin.com/in/jeffday2008
+
+- name: Nate Yohannes
+  title: |
+    Microsoft
+  avatar: nateyohannes.jpg
+  link: https://www.linkedin.com/in/nateyohannes/
+
+- name: Lina Martensson
+  title: |
+    Pathcheck
+  avatar: linamartensson.jpg
+  link: https://www.linkedin.com/in/lina-martensson-1526383/
+
+- name: Paresh Dave
+  title: |
+    Reuters
+  avatar: pareshdave.jpg
+  link: https://www.linkedin.com/in/pareshdave
+
+- name: Sam Zimmerman
+  title: |
+    CTO, Pathcheck Foundation
+  avatar: samzimmerman.jpg
+  link: https://www.linkedin.com/in/sam-zimmerman-35152a22
+
+- name: Wendy Seltzer
+  title: |
+    W3C
+  avatar: wendyseltzer.jpg
+  link: https://www.linkedin.com/in/wendyseltzer/
+
+- name: Thomas Kingsley
+  title: |
+    Mayo Clinic College of Medicine and Science
+  avatar: thomaskingsley.jpg
+  link: https://www.linkedin.com/in/thomas-c-kingsley-18a5a260
+
+- name: Suraj Kapa
+  title: |
+    Mayo Clinic College of Medicine
+  avatar: surajkapa.png
+  link: https://www.linkedin.com/in/suraj-kapa-494a76a
 
 - name: Luca Ferretti
   title: |
@@ -107,169 +196,104 @@
   avatar: lucaferretti.png
   link: https://www.bdi.ox.ac.uk/Team/luca-ferretti
 
-- name: Suraj Kapa
-  title: |
-    Mayo Clinic College of Medicine
-  avatar: surajkapa.png
-  link: https://www.linkedin.com/in/suraj-kapa-494a76a
-
-- name: Thomas Kingsley
-  title: |
-    Mayo Clinic College of Medicine and Science
-  avatar: thomaskingsley.jpg
-  link: https://www.linkedin.com/in/thomas-c-kingsley-18a5a260
-
-- name: Wendy Seltzer
-  title: |
-    W3C
-  avatar: wendyseltzer.jpg
-  link: https://www.linkedin.com/in/wendyseltzer/
-
-- name: Sam Zimmerman
-  title: |
-    CTO, Pathcheck Foundation
-  avatar: samzimmerman.jpg
-  link: https://www.linkedin.com/in/sam-zimmerman-35152a22
-
-- name: Paresh Dave
-  title: |
-    Reuters
-  avatar: pareshdave.jpg
-  link: https://www.linkedin.com/in/pareshdave
-
-- name: Lina Martensson
-  title: |
-    Pathcheck
-  avatar: linamartensson.jpg
-  link: https://www.linkedin.com/in/lina-martensson-1526383/
-
-- name: Nate Yohannes
+- name: Landon Cox
   title: |
     Microsoft
-  avatar: nateyohannes.jpg
-  link: https://www.linkedin.com/in/nateyohannes/
+  avatar: landancox.jpg
+  link: https://www.linkedin.com/in/landon-cox-6727363
 
-- name: Jeff Day
+- name: Kevin Esvelt
   title: |
-    Microsoft
-  avatar: jeffday.jpg
-  link: https://www.linkedin.com/in/jeffday2008
+    Assistant Professor, MIT Media Lab
+  avatar: kevinesvelt.jpg
+  link: https://www.linkedin.com/in/kevin-esvelt-a8388a31
 
-- name: Sue Feldman
+- name: John Halamka
   title: |
-    Director and Professor. Graduate Programs in Health Informatics
-  avatar: suefeldman.png
-  link: https://www.linkedin.com/in/suefeldman
+    President of Mayo Clinic Platform
+  avatar: johnhalamka.jpg
+  link: https://www.linkedin.com/in/johnhalamka
 
-- name: Brian Rivers
+- name: Jeff Jaffe
   title: |
-    Alabama, AVP-Chief Technology Officer
-  avatar: brianrivers.jpg
-  link: https://www.linkedin.com/in/brian-rivers-a256b43
+    W3C, CEO
+  avatar: jeffjaffe.jpg
+  link: https://www.linkedin.com/in/jjaffe
 
-- name: Rajesh Pillai
+- name: Don Rucker
   title: |
-    Alabama, Systems Analyst Architect
-  avatar: rajeshpillai.jpg
-  link: https://www.linkedin.com/in/rajesh-pillai-87b0714
+    National Coordinator for Health Information Technology
+  avatar: donrucker.jpg
+  link: https://www.linkedin.com/in/donruckermd
 
-- name: Larus Jim
+- name: Adam Berrey
   title: |
-    SwissCovid and DP3T
-  avatar: larusjim.png
-  link: https://ch.linkedin.com/in/james-larus-42b3476
- 
-- name: Suresh Soundararajan
-  title: |
-    Chief Information Officer, Virginia Department of Health
-  avatar: sureshsoundararajan.jpg
-  link: https://www.linkedin.com/in/suresh-soundararajan-a7925712
+    PathCheck Foundation, President
+  avatar: adamberrey.jpg
+  link: https://www.linkedin.com/in/adamberrey
 
-- name: Jeff Stover
+- name: James Joshi
   title: |
-    Virginia, Director, Health Informatics & Integrated Surveillance Systems
-  avatar: jeffstover.jpg
- 
-- name: Corey Mercy
-  title: |
-    North Carolina
-  avatar: coreymercey.jpg
-  link: https://www.linkedin.com/in/coreymercy
+    NSF
+  avatar: jamesjoshi.jpg
+  link: https://www.linkedin.com/in/james-joshi-8b4b75/
 
-- name: Wendy-Kay Logan, Google
+- name: David Eaves
   title: |
-    Google EN Express App
-  avatar: wendykaylogan.jpg
-  link: https://www.linkedin.com/in/wlogan
+    Harvard Kennedy School
+  avatar: davideaves.jpg
+  link: https://www.linkedin.com/in/davideaves
 
-- name: Randy Marsden
+- name: Omid Sadjadi
   title: |
-    Apple, Special Projects Manager
-  avatar: randymarsden.jpg
-  link: https://www.linkedin.com/in/randymarsden
+    NIST BlueTooth Challenge
+  avatar: omidsabjadi.png
+  link: https://ir.linkedin.com/in/osadjadi
 
-- name: Steph Hannon
+- name: Gary Hatke
   title: |
-    Google, Senior Director of Project Management
-  avatar: stephhannon.jpg
-  link: https://www.linkedin.com/in/skhannon
+    MIT Lincoln Labs
+  avatar: garyhatke.jpg
+  link: https://www.linkedin.com/in/gary-hatke-6a1423a5
 
-- name: Christopher Longhurst
+- name: Marc Zissman
   title: |
-    CIO and Associate CMO at UC San Diego Health
-  avatar: christopherlonghurst.jpg
-  link: https://www.linkedin.com/in/chrislonghurst
+    MIT Lincoln Labs  
+  avatar: marczissman.png
+  link: https://www.linkedin.com/in/marc-zissman-1036a74
 
-- name: Vince Munoz
+- name: Peko Hosoi
   title: |
-    Guam, Managing Partner Next Generation LLC
-  avatar: vincemunoz.jpg
-  link: https://gu.linkedin.com/in/vince-munoz-214b1b51
+    Professor of Mechanical Engineering and Associate Dean of Engineering at the Massachusetts Institute of Technology
+  avatar: pekohosoi.png
+  link: https://www.linkedin.com/in/anette-hosoi-a37876145
 
-- name: Mike Judd
+- name: Tate Ryan-Mosley
   title: |
-    CDC, Lead, COVID-19 Exposure Notification Initiative
-  avatar: mikejudd.jpg
-  link: https://www.linkedin.com/in/michaelcjudd
+    MIT Tech Review
+  avatar: tateryan.jpg
+  link: https://www.linkedin.com/in/tate-ryan-mosley-98377889/
 
-- name: Daniel B Larremore
+- name: Congressman Bill Foster
   title: |
-    Assistant Professor, University of Colorado Boulder
-  avatar: daniellarremore.png
-  link: https://www.linkedin.com/in/daniel-larremore-79a6ab83
+    Chair of Taskforce on AI and Congressional Hearing on Contact Tracing
+  avatar: billfoster.png
+  link: https://foster.house.gov/
 
-- name: Shirley Bergin
+- name: Lily Tsai
   title: |
-    COO/CMO, Executive Director and Producer, The TEDMED Foundation (TEDMED)
-  avatar: shirleybergin.jpg
-  link: https://www.linkedin.com/in/shirleybergin/
+    Ford Professor of Political Science and Director of MIT GOV/LAB
+  avatar: lilytsai.jpg
+  link: https://mitgovlab.org/people/lily-tsai/
 
-- name: Colin Raney
+- name: David Kong
   title: |
-    CMO at PillPack
-  avatar: colinraney.jpg
-  link: https://www.linkedin.com/in/colinraney
+    Director, Community Biotechnology Initiative, MIT Media Lab
+  avatar: davidkong.jpg
+  link: https://www.linkedin.com/in/davidsunkong/
 
-- name: Nicholas St. Fleur
+- name: Ramesh Raskar
   title: |
-    Knight-Wallace Reporting Fellow at STAT
-  avatar: nicholasfleur.jpg
-  link: https://www.linkedin.com/in/scifleur
-
-- name: Jagjit Dhaliwal
-  title: |
-    Deputy CIO, Los Angeles
-  avatar: jagjitdhaliwal.jpg
-  link: https://www.linkedin.com/in/jagjitdhaliwal
-
-- name: Susan Blumenthal
-  title: |
-    Former US Assistant Surgeon General and Deputy Assistant Secretary for Women's Health
-  avatar: susanblumenthal.jpg
-  link: https://www.linkedin.com/in/susan-blumenthal-530bb819
-
-- name: Dakota Gruener
-  title: |
-    ID2020 Executive Director
-  avatar: dakotagruener.jpg
-  link: https://www.linkedin.com/in/dakotagruener
+    Professor, MIT Media Lab
+  avatar: Ramesh.png
+  link: https://www.linkedin.com/in/raskar/
