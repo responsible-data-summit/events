@@ -4,11 +4,29 @@
   avatar: anuradhagupta.jpeg
   link: https://www.linkedin.com/in/anuradha-gupta-gavi/
 
-- name: James Rathmell
+- name: Bruce Gellin
   title: |
-    Chair, Department of Anesthesiology, Perioperative and Pain Medicine at Brigham and Women's Hospital
-  avatar: jamesrathmell.jpeg
-  link: https://www.linkedin.com/in/james-rathmell-2a605254/
+    President, Global Immunization at Sabin Vaccine Institute
+  avatar: brucegellin.jpeg
+  link: https://www.linkedin.com/in/bruce-gellin/
+
+- name: Josh Sharfstein
+  title: |
+    Professor, Johns Hopkins Bloomberg School of Public Health
+  avatar: joshsharfstein.jpeg
+  link: https://www.linkedin.com/in/joshua-m-sharfstein-2039281/
+ 
+- name: Susan Blumenthal
+  title: |
+    Former US Assistant Surgeon General and Deputy Assistant Secretary for Women's Health
+  avatar: susanblumenthal.jpg
+  link: https://www.linkedin.com/in/susan-blumenthal-530bb819
+
+- name: Shirley Bergin
+  title: |
+    COO/CMO, Executive Director and Producer, The TEDMED Foundation (TEDMED)
+  avatar: shirleybergin.jpg
+  link: https://www.linkedin.com/in/shirleybergin/
 
 - name: Lawrence Gostin
   title: |
@@ -16,35 +34,11 @@
   avatar: lawrencegostin.jpeg
   link: https://twitter.com/LawrenceGostin
 
-- name: David Cardenas
-  title: |
-    CIO, Los Angeles Dept. of Public Health
-  avatar: davidcardenas.jpeg
-  link: https://www.linkedin.com/in/david-cardenas-42100010/
-
 - name: Dakota Gruener
   title: |
     ID2020 Executive Director
   avatar: dakotagruener.jpg
   link: https://www.linkedin.com/in/dakotagruener
-
-- name: Susan Blumenthal
-  title: |
-    Former US Assistant Surgeon General and Deputy Assistant Secretary for Women's Health
-  avatar: susanblumenthal.jpg
-  link: https://www.linkedin.com/in/susan-blumenthal-530bb819
-
-- name: Jagjit Dhaliwal
-  title: |
-    Deputy CIO, Los Angeles
-  avatar: jagjitdhaliwal.jpg
-  link: https://www.linkedin.com/in/jagjitdhaliwal
-
-- name: Nicholas St. Fleur
-  title: |
-    Knight-Wallace Reporting Fellow at STAT
-  avatar: nicholasfleur.jpg
-  link: https://www.linkedin.com/in/scifleur
 
 - name: Colin Raney
   title: |
@@ -52,11 +46,29 @@
   avatar: colinraney.jpg
   link: https://www.linkedin.com/in/colinraney
 
-- name: Shirley Bergin
+- name: Jagjit Dhaliwal
   title: |
-    COO/CMO, Executive Director and Producer, The TEDMED Foundation (TEDMED)
-  avatar: shirleybergin.jpg
-  link: https://www.linkedin.com/in/shirleybergin/
+    Deputy CIO, Los Angeles
+  avatar: jagjitdhaliwal.jpg
+  link: https://www.linkedin.com/in/jagjitdhaliwal
+
+- name: David Cardenas
+  title: |
+    CIO, Los Angeles Dept. of Public Health
+  avatar: davidcardenas.jpeg
+  link: https://www.linkedin.com/in/david-cardenas-42100010/
+
+- name: James Rathmell
+  title: |
+    Chair, Department of Anesthesiology, Perioperative and Pain Medicine at Brigham and Women's Hospital
+  avatar: jamesrathmell.jpeg
+  link: https://www.linkedin.com/in/james-rathmell-2a605254/
+
+- name: Nicholas St. Fleur
+  title: |
+    Knight-Wallace Reporting Fellow at STAT
+  avatar: nicholasfleur.jpg
+  link: https://www.linkedin.com/in/scifleur
 
 - name: Daniel B Larremore
   title: |
